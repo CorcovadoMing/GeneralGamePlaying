@@ -67,7 +67,7 @@
       <file leaf-file-name="StaticValidator.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/ggp/base/validator/StaticValidator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="235" column="20" selection-start="10266" selection-end="10266" vertical-scroll-proportion="0.0" vertical-offset="3525" max-vertical-offset="9450">
+            <state line="235" column="20" selection-start="10266" selection-end="10266" vertical-scroll-proportion="0.0" vertical-offset="3525" max-vertical-offset="10080">
               <folding />
             </state>
           </provider>
@@ -85,7 +85,16 @@
       <file leaf-file-name="Kiosk.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/org/ggp/base/apps/kiosk/Kiosk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="245" column="29" selection-start="10887" selection-end="10887" vertical-scroll-proportion="0.029880479" vertical-offset="3660" max-vertical-offset="6315">
+            <state line="64" column="17" selection-start="2241" selection-end="2241" vertical-scroll-proportion="-0.8665339" vertical-offset="690" max-vertical-offset="5610">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameGUI.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/ggp/base/apps/kiosk/GameGUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="13" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0" vertical-offset="1439" max-vertical-offset="2220">
               <folding />
             </state>
           </provider>
@@ -124,7 +133,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
-    <option name="STATE" value="2" />
+    <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -139,10 +148,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -275,6 +280,10 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -557,15 +566,16 @@
       <workItem from="1398146487980" duration="76000" />
       <workItem from="1398146565063" duration="30000" />
       <workItem from="1398146596521" duration="301000" />
+      <workItem from="1398182308101" duration="877000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1049000" />
+    <option name="totallyTimeSpent" value="1926000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="37" y="22" width="1403" height="878" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -586,7 +596,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24946544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24946544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32880098" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -616,6 +626,27 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/org/ggp/base/validator/StaticValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="235" column="20" selection-start="10266" selection-end="10266" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/ggp/base/util/ui/GameStateRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="117" column="30" selection-start="5471" selection-end="5471" vertical-scroll-proportion="0.0" vertical-offset="1755" max-vertical-offset="2505">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/ggp/base/apps/kiosk/Kiosk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="245" column="29" selection-start="10887" selection-end="10887" vertical-scroll-proportion="0.0" vertical-offset="2955" max-vertical-offset="5610">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/ggp/base/validator/StaticValidator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="235" column="20" selection-start="10266" selection-end="10266" vertical-scroll-proportion="0.0" vertical-offset="3525" max-vertical-offset="9450">
@@ -798,9 +829,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/ggp/base/apps/kiosk/GameGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="13" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0" vertical-offset="1439" max-vertical-offset="2220">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/ggp/base/apps/kiosk/Kiosk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="245" column="29" selection-start="10887" selection-end="10887" vertical-scroll-proportion="0.029880479" vertical-offset="3660" max-vertical-offset="6315">
+        <state line="64" column="17" selection-start="2241" selection-end="2241" vertical-scroll-proportion="-0.8665339" vertical-offset="690" max-vertical-offset="5610">
           <folding />
         </state>
       </provider>
